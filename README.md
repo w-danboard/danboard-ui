@@ -1,4 +1,4 @@
-# wl-ui
+# danboard-ui
 
 ## Project setup
 ```
