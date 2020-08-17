@@ -1,7 +1,9 @@
 import Button from '../packages/button/index.js';
+import Icon from '../packages/icon/index.js';
 
 const components = [
-  Button
+  Button,
+  Icon
 ]
 
 const install = function (Vue, opts = {}) {
